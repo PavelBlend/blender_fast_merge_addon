@@ -65,7 +65,7 @@ def register():
 
     wm = bpy.context.window_manager
     if wm.keyconfigs.addon:
-        km = wm.keyconfigs.addon.keymaps.new(name='Object Non-modal')
+        km = wm.keyconfigs.addon.keymaps.new(name='Mesh')
         kmi = km.keymap_items.new('mesh.fast_merge', 'Q', 'PRESS')
         addon_keymaps.append((km, kmi))
 
