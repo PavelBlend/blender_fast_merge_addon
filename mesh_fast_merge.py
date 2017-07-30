@@ -6,9 +6,9 @@ bl_info = {
     "blender": (2, 78, 0),
     "location": "Editmode > Q",
     "description": "Quick merge call",
-    "category": "Mesh"
+    "category": "Mesh",
     "wiki_url": "https://github.com/PavelBlend/blender_fast_merge_addon",
-    "tracker_url": "https://github.com/PavelBlend/blender_fast_merge_addon/issues",
+    "tracker_url": "https://github.com/PavelBlend/blender_fast_merge_addon/issues"
     }
 
 
