@@ -7,6 +7,8 @@ bl_info = {
     "location": "Editmode > Q",
     "description": "Quick merge call",
     "category": "Mesh"
+    "wiki_url": "https://github.com/PavelBlend/blender_fast_merge_addon",
+    "tracker_url": "https://github.com/PavelBlend/blender_fast_merge_addon/issues",
     }
 
 
